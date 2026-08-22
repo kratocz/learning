@@ -40,7 +40,7 @@ Kurzy nejsou všechno — skvělá jsou i videa zdarma na internetu. Tyhle kaná
 
 ## Kurzy, které mě nyní zajímají
 
-Termíny běhů odpovídají stavu k 23. 8. 2026 (zdroj: weby kurzů a e-maily robot_dreams). Všechny běhy jsou večerní online lekce (~90 min).
+Termíny běhů odpovídají stavu k 23. 8. 2026 (zdroj: weby kurzů a e-maily robot_dreams). Všechny běhy jsou večerní online lekce (~90 min). Nejde o oficiální informace poskytovatelů kurzů — uvedené údaje, včetně termínů, se mohou kdykoli změnit; aktuální podobu kurzů vždy ověřte na odkazovaných stránkách.
 
 ### Plánované
 
