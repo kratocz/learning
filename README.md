@@ -8,6 +8,16 @@ Veřejný přehled mého průběžného sebevzdělávání v IT — absolvované
 - **CV:** [krato.cz/cs/cv](https://krato.cz/cs/cv/)
 - **Licence:** [CC BY 4.0](LICENSE)
 
+## Doporučené YouTube kanály
+
+Kurzy nejsou všechno — skvělá jsou i videa zdarma na internetu. Tyhle kanály doporučuji:
+
+* **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** – matematika vysvětlená špičkovými animacemi; série o neuronových sítích a lineární algebře je ideální základ pro pochopení, jak AI funguje „pod kapotou"
+* **[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)** – zakládající člen OpenAI a bývalý ředitel AI v Tesle; v sérii „Neural Networks: Zero to Hero" staví jazykové modely od nuly v kódu — jeden z nejhlubších praktických vhledů do LLM na YouTube
+* **[Stanford Online](https://www.youtube.com/@stanfordonline)** – kompletní záznamy stanfordských univerzitních přednášek (machine learning, NLP a další) zdarma
+* **[Veritasium](https://www.youtube.com/@veritasium)** – věda a inženýrství podané poutavě a do hloubky; výborný trénink kritického myšlení
+* **[Marek Bartoš](https://www.youtube.com/@bartosmarek)** – český AI lektor a popularizátor; novinky ze světa AI a jejich praktické využití, česky a srozumitelně
+
 ## Absolvované kurzy
 
 ### AI Development
@@ -54,13 +64,3 @@ Kurzy, které mi v průběhu roku 2026 doporučili z robot_dreams a ze kterých 
 * **FinOps Cloud: Efektivita a accountability** (robot_dreams, lektor: Benjamin Melikant - co-founder EnterCloud a Thrify.io, [kurz](https://robotdreams.cz/course/950-finops-cloud)) – analýza cloud billingu (AWS, Azure, GCP), optimalizace nákladů (right-sizing, commitments, Spot), FinOps governance a policy-as-code, unit economics jako jazyk byznysu
 
 Doporučený kurz **AI Architect** (Josef Večerník, Make.com) jsem mezitím absolvoval pod názvem „AI architektura v praxi" – viz [Absolvované kurzy](#absolvované-kurzy).
-
-## Doporučené YouTube kanály
-
-Kurzy nejsou všechno — skvělá jsou i videa zdarma na internetu. Tyhle kanály doporučuji:
-
-* **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** – matematika vysvětlená špičkovými animacemi; série o neuronových sítích a lineární algebře je ideální základ pro pochopení, jak AI funguje „pod kapotou"
-* **[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)** – zakládající člen OpenAI a bývalý ředitel AI v Tesle; v sérii „Neural Networks: Zero to Hero" staví jazykové modely od nuly v kódu — jeden z nejhlubších praktických vhledů do LLM na YouTube
-* **[Stanford Online](https://www.youtube.com/@stanfordonline)** – kompletní záznamy stanfordských univerzitních přednášek (machine learning, NLP a další) zdarma
-* **[Veritasium](https://www.youtube.com/@veritasium)** – věda a inženýrství podané poutavě a do hloubky; výborný trénink kritického myšlení
-* **[Marek Bartoš](https://www.youtube.com/@bartosmarek)** – český AI lektor a popularizátor; novinky ze světa AI a jejich praktické využití, česky a srozumitelně
