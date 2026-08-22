@@ -30,9 +30,30 @@ Veřejný přehled mého průběžného sebevzdělávání v IT — absolvované
 
 ## Kurzy, které mě nyní zajímají
 
+### Plánované
+
 * **Kubernetes** (robot_dreams, plán na 2026) – cloud, orchestrace
 * **Microservices** (robot_dreams, plán na 2026) – architektura
 * **Projektový management v IT** (robot_dreams, plán na 2026) – management
+
+### Zvažované
+
+Kurzy, které mi v průběhu roku 2026 doporučili z robot_dreams a ze kterých dále vybírám:
+
+* **Vibe Coding** (robot_dreams, lektor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurz](https://robotdreams.cz/course/844-vibe-coding)) – AI coding agenti (ReAct loop, tool-calling, MCP), Claude Code, OpenAI Codex, Cursor, GitHub Copilot, TypeScript SDK, stavba full-stack aplikace s minimem ručního kódování
+* **Řízení IT projektů** (robot_dreams, lektor: Tomáš Foltýn - IT manažer, Česká spořitelna, [kurz](https://robotdreams.cz/course/22-projektovy-management-v-it)) – plánování a řízení IT projektů, odhady a rizika, klasické vs. agilní řízení (Scrum, Kanban), komunikace se stakeholdery, WBS; pravděpodobně jde o tentýž kurz jako výše plánovaný „Projektový management v IT"
+* **IT Security Architect** (robot_dreams, lektor: Ondřej Fišer - Risk & Compliance specialista, Aricoma, [kurz](https://robotdreams.cz/course/195-security-architect)) – návrh bezpečnostní architektury, zero trust, threat modeling, BIA/BCP/DRP, kryptografie a PKI, NIS2, DORA, ISO/IEC 27001
+* **OSINT** (robot_dreams, lektor: Ondřej Šlechta - specialista na korporátní bezpečnost, [kurz](https://robotdreams.cz/course/263-osint)) – vyšetřování s technikami otevřených zdrojů, SOCMINT, OPSEC, geolokace, darkweb/TOR, deepfakes a dezinformace, AI v OSINT
+* **Vedení IT týmů** (robot_dreams, lektor: Tomáš Foltýn - board member, Trask, [kurz](https://robotdreams.cz/course/587-projektovy-management-v-it)) – IT leadership, SMART cíle a výkonové metriky, Scrum/Kanban/SAFe, talent a krizový management, hybridní týmy
+* **LLMs & automatizace procesů** (robot_dreams, lektor: Filip Slánička - Senior Solutions Engineer, Microsoft, [kurz](https://robotdreams.cz/course/916-llms-automatizace-procesu)) – výběr AI use case s největším dopadem na byznys, business case a ROI, enterprise architektura AI řešení, využití firemních dat (dokumenty, CRM, ERP), kde automatizovat a kde nechat člověka
+* **Bezpečnost AI aplikací** (robot_dreams, lektor: Tomáš Kubica - Cloud & AI Apps Senior Solution Engineer, Microsoft, [kurz](https://robotdreams.cz/course/938-bezpecnost-ai-aplikaci)) – zabezpečení LLM aplikací (chatboty, RAG, agenti), prompt injection a guardrails, threat modeling, red teaming (PyRIT, garak), bezpečnostní testy v CI/CD, AI supply chain, EU AI Act, NIST AI RMF
+* **Aplikační bezpečnost pro vývojáře** (robot_dreams, lektor: Petr Fojtů - Software Security Architect, Thales, [kurz](https://robotdreams.cz/course/937-aplikacni-bezpecnost-pro-vyvojare)) – principy bezpečného kódování, bezpečnost v celém životním cyklu vývoje, testování bezpečnosti kódu, supply chain, DevSecOps, bezpečnost AI generovaného kódu
+* **AI konzultant** (robot_dreams, lektor: Matúš Paško - AI Consultant, Daktela, [kurz](https://robotdreams.cz/course/941-ai-konzultant)) – návrh AI řešení pro reálné byznys procesy, kdy použít LLM, RAG, agentní systémy nebo klasickou automatizaci, architektura, workflow, data a integrace, pilot, validace a škálování
+* **Game design pro začátečníky** (SKVOT – sesterská platforma robot_dreams, lektorky: Katarína Ferencová - Senior Expert Technical Designer, Activision, a Lenka Krsová - Living World Designer, Fool's Theory, [kurz](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role v herním vývoji, Unreal Engine 5 a Blueprint skriptování, level design, psychologie hráče, interaktivní storytelling
+* **Specialista na AI & GDPR** (robot_dreams, lektor: Jaroslav Jordán - Data Privacy Manager, AmRest) – AI nástroje a osobní údaje, GDPR, NIS2, AI Act, interní AI Policy, analýza dopadů (DPIA), postup při bezpečnostním incidentu
+* **FinOps Cloud: Efektivita a accountability** (robot_dreams, lektor: Benjamin Melikant - co-founder EnterCloud a Thrify.io, [kurz](https://robotdreams.cz/course/950-finops-cloud)) – analýza cloud billingu (AWS, Azure, GCP), optimalizace nákladů (right-sizing, commitments, Spot), FinOps governance a policy-as-code, unit economics jako jazyk byznysu
+
+Doporučený kurz **AI Architect** (Josef Večerník, Make.com) jsem mezitím absolvoval pod názvem „AI architektura v praxi" – viz [Absolvované kurzy](#absolvované-kurzy).
 
 ## Doporučené YouTube kanály
 
