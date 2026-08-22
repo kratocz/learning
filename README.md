@@ -46,7 +46,7 @@ Termíny běhů odpovídají stavu k 23. 8. 2026 (zdroj: weby kurzů a e-maily r
 
 * **Kubernetes** (robot_dreams, plán na 2026, [kurz Docker a Kubernetes](https://robotdreams.cz/course/219-kubernetes)) – cloud, orchestrace; další běh zatím nevypsán
 * **Microservices** (robot_dreams, plán na 2026) – architektura; samostatný kurz zatím není v nabídce
-* **Projektový management v IT** (robot_dreams, plán na 2026) – management; nejbližší běh: od 8. 12. 2026, po + st 18:00–19:30 (16 lekcí)
+* **Projektový management v IT** (robot_dreams, plán na 2026, [kurz](https://robotdreams.cz/course/22-projektovy-management-v-it)) – management; nejbližší běh: od 8. 12. 2026, po + st 18:00–19:30 (16 lekcí)
 * **MLOps** (robot_dreams, plán na 2027) – provoz, nasazování a monitoring ML modelů; kurz zatím není v nabídce
 * **Bezpečnost AI aplikací** (robot_dreams, plán na 2026, lektor: Tomáš Kubica - Cloud & AI Apps Senior Solution Engineer, Microsoft, [kurz](https://robotdreams.cz/course/938-bezpecnost-ai-aplikaci)) – zabezpečení LLM aplikací (chatboty, RAG, agenti), prompt injection a guardrails, threat modeling, red teaming (PyRIT, garak), bezpečnostní testy v CI/CD, AI supply chain, EU AI Act, NIST AI RMF; nejbližší běh: 3. 9. – 15. 10. 2026, po + čt večer
 
