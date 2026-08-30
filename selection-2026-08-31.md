@@ -1,6 +1,6 @@
 # Výběr kurzů k akci 1+1 (srpen 2026)
 
-- **Datum:** 2026-08-30
+- **Datum:** 2026-08-30; revize 2026-08-31 dopoledne (doplněn kontext hry IronHell, doporučení změněno z S1 na S2) a večer (třetí kurz Vedení IT týmů v příštím běhu, scénář S4)
 - **Status:** návrh k rozhodnutí; deadline akce 1+1 je 31. 8. 2026 (dle mého sdělení, ne z e-mailu)
 - **Zdroje:** e-maily od robot_dreams (3. 8. 2026 k Bezpečnosti AI aplikací a Řízení IT projektů, 9. 6. 2026 ke Game designu, 1. 4. 2026 k Vedení IT týmů, 4. 12. 2025 k architektuře moderních aplikací, 12. 11. 2025 k Docker & Kubernetes), stránky kurzů stažené 30. 8. 2026, katalog robotdreams.cz (30. 8. 2026), [README](README.md)
 - **Ověření:** data lekcí a kolize přepočítány ručně z programů kurzů; protiargumenty v samostatné sekci (bez subagenta — rozhodnutí je za ~30 tis. Kč a je vratné jen částečně, víc procesu by bylo divadlo)
@@ -9,12 +9,13 @@ Dokument vznikl jako jednorázová rozhodovací analýza mimo konvenci „veške
 
 ## Doporučení
 
-1. **Koupit teď Bezpečnost AI aplikací** (placený kurz, 25 990 Kč bez DPH). Je to přesný průnik mých dvou nejsilnějších stop (AI vývoj/agenti × pentest/red teaming), lektor, kterého znám ze dvou kurzů, a obsah, který jde za hranici toho, co za mě dokážu odvodit z literatury.
-2. **Druhý kurz zdarma nevybírat hned.** Podle e-mailu z 3. 8. mám na výběr čas do konce roku 2026. Otevřený slot pokryje Projektový management v IT (24 990 Kč) celý, a rozhodnutí o něm dává smysl až v listopadu, kdy budu znát termíny předplaceného Kubernetes a MLOps (únor 2027).
-3. **Game design: nedoporučuji jako součást téhle akce.** Není to kariérní kurz (cílí na career switchery bez kódu), stojí 26 večerů v mém nejnabitějším období a teorii z něj zvládnu nahradit z větší části sám. Jediné, co nenahradím, je zpětná vazba lidí, kteří dodali Cyberpunk 2077 a KCD2. Pokud ho beru vědomě jako koníček, pak platit Game design a Bezpečnost AI vzít jako ten zdarma (scénář S2) — ale pak nezbude otevřený slot.
-4. **Microservices: kurz neexistuje**, katalog k 30. 8. 2026 žádný nemá. Nejbližší byl „Staň se architektem moderních aplikací" (Roman Planský, SeyFor), naposledy leden–únor 2026, další běh nevypsán. Tohle je téma, kde jsem nejlepší náhrada já (viz níže).
+1. **Scénář S4 (rozhodnutí 31. 8. večer): zaplatit Game design pro začátečníky (29 990 Kč) a Bezpečnost AI aplikací (25 990 Kč), tedy 55 980 Kč bez DPH / 67 736 Kč s DPH; zdarma Vedení IT týmů v příštím běhu (29 990 ≤ 29 990, párováno s Game designem) a druhý slot ≤ 25 990 Kč do 31. 12. 2026** (párován s Bezpečností AI) — na Projektový management v IT (24 990 Kč), na Microservices, kdyby se objevil, nebo jako dar. Je to o 4 000 Kč levnější než S2 plus Vedení IT týmů koupené později samostatně, a navíc s rezervním slotem. Nouzová varianta zůstává S2 (29 990 Kč), kdyby robot_dreams nepřipustil kurz zdarma s během až v roce 2027.
+2. **Bezpečnost AI aplikací zůstává kurz s nejvyšší prioritou** — přesný průnik mých dvou nejsilnějších stop (AI vývoj/agenti × pentest/red teaming), lektor, kterého znám ze dvou kurzů, obsah za hranicí toho, co si odvodím z literatury, a navíc přímá vazba na AI editor IronHellu (PromptShield, SpendGuard, EditGuard). Při čtvrtečních kolizích má přednost živě (3 : 2, viz níže).
+3. **Třetí kurz: Vedení IT týmů, příští běh.** Aktuální běh (od 27. 7.) už nechytím, další odhaduji na jaro 2027 (běhy vidím zhruba dva do roka — domněnka, ověřit). Pojistka: první dvě lekce zkušebně, a když kurz nesedí, výměna za Projektový management v IT nebo Microservices — precedent mám z května 2026, kdy jsem po druhé lekci vyměnil Machine Learning za AI architekturu v praxi; zda to platí i pro kurz zdarma z 1+1, ověřit. Obsahově je to z obou Foltýnových kurzů ten bližší k „vedu lidi" (1:1, zpětná vazba, delegování, nábor). Pondělky jednou týdně jsou zvládnutelné i vedle Kubernetes a MLOps; výhradu k celkové zátěži viz Protiargumenty.
+4. **Game design beru kvůli IronHellu, ne jako odměnu.** Změna proti první verzi dokumentu: mám hratelnou hru před vydáním (Godot 4.7, 3 × 10 map, launch Q4 2026 / Q1 2027), takže kurz není obecné studium, ale design review vlastního produktu — Lenčiny lekce o level designu, vyvažování a psychologii hráče sedí na Doom-style mapy, lekce o pitchování (8. 12.) přijde před psaním store listingu a Q&A (10. 11., 15. 12.) jsou příležitost dostat zpětnou vazbu od lidí z CD Projekt RED a Warhorse. Podmínky: dokončit ho (nedokončený kurz za 30 tisíc je nejhorší varianta), zhruba 40 % úkolů v UE5 dělat po svém v Godotu nebo vědomě vynechat (certifikát nepotřebuji) a překryvy řešit záznamem.
+5. **Microservices: kurz neexistuje**, katalog k 30. 8. 2026 žádný nemá. Nejbližší byl „Staň se architektem moderních aplikací" (Roman Planský, SeyFor), naposledy leden–únor 2026, další běh nevypsán. Tohle je téma, kde jsem nejlepší náhrada já (viz níže).
 
-**Změním názor, když:** (a) robot_dreams řekne, že druhý kurz musím pojmenovat hned — pak pojmenovat Projektový management v IT (nejlevnější, plně pokrytý, odpovídá potřebě „vedu tým 5 vývojářů"), ne Vedení IT týmů (v květnu jsem ho odmítl a 4 lekce už proběhly); (b) se ukáže, že CV nechci směřovat k AI security, ale k MLOps/ML inženýrství — pak Bezpečnost AI klesá na 3/5 a nejlepší volba je nekupovat nic; (c) Vojtěch potvrdí, že Kubernetes i MLOps startují v únoru 2027 — pak PM s prosincovým startem znamená tři souběžné kurzy a je lepší ho odložit na další běh.
+**Změním názor, když:** (a) launch IronHellu bude pevně v Q4 2026 — pak tři měsíce kurzu kolidují s finiší a Game design patří až do dalšího běhu po vydání (zpět na S1 s otevřeným slotem); (b) se ukáže, že CV nechci směřovat k AI security, ale k MLOps/ML inženýrství — pak Bezpečnost AI klesá na 3/5 a jako kurz zdarma k Game designu je pořád v pořádku, ale nebyl by důvod spěchat s platbou do 31. 8.; (c) robot_dreams odmítne kurz zdarma s během až v roce 2027 nebo výměnu kurzu zdarma po zkušebních lekcích — pak zpět na S2 a Vedení IT týmů koupit až s vypsaným během; (d) rezervní slot použít na Projektový management v IT jen s termíny Kubernetes a MLOps v ruce — s prosincovým startem hrozí souběh tří kurzů v únoru 2027.
 
 ## Podmínky akce 1+1 (z e-mailu 3. 8. 2026)
 
@@ -29,9 +30,9 @@ Dokument vznikl jako jednorázová rozhodovací analýza mimo konvenci „veške
 | Kurz | Lektor | Termín | Cena zvýhodněná bez DPH (s DPH) | Vhodnost pro mě | Nahradím si sám s AI | Hlavní argument |
 |---|---|---|---|---|---|---|
 | **Bezpečnost AI aplikací** (robot_dreams) | Tomáš Kubica – Cloud & AI Apps Senior Solution Engineer, Microsoft | 3. 9. – 15. 10. 2026, 12 lekcí, po + čt 18:00–19:30 | 25 990 Kč (31 448 Kč); standardně 32 990 Kč | **5/5** | ~60 % | průnik AI × security, hands-on laby, aktuální obsah (MCP, agentní runtime, AI supply chain) |
-| **Game design pro začátečníky** (SKVOT) | Katarína Ferencová – Senior Expert Technical Designer, Elsewhere Entertainment (Activision); Lenka Krsová – Living World Designer, Fool's Theory | 15. 9. – 15. 12. 2026, 26 lekcí, út + čt 18:00–19:30 | 29 990 Kč (36 288 Kč); standardně 37 999 Kč | **1,5/5** profesně, 3,5/5 jako koníček | ~55 % | špičkové lektorky z AAA, ale kurz pro začátečníky bez kódu a 26 večerů |
-| **Projektový management v IT** (robot_dreams) | Tomáš Foltýn – Head of Technology Units, Trask (dříve Česká spořitelna) | od 8. 12. 2026, 16 lekcí, po + st 18:00–19:30 (viz nesrovnalost níže) | 24 990 Kč (30 238 Kč); standardně 33 990 Kč | **3/5** | ~80 % | reálná potřeba (vedu tým), ale cílí na netechnické PM; ~30 % obsahu je pro mě výplň |
-| Vedení IT týmů (robot_dreams) – záložní | Tomáš Foltýn – Principal Consultant / board member, Trask | 27. 7. – 23. 11. 2026, 16 lekcí, jen pondělky 18:00–19:30; 4 lekce už proběhly | 29 990 Kč (36 288 Kč); standardně 42 990 Kč | 3/5 | ~70 % | blíž k „vedu lidi" než PM, ale v květnu jsem ho odmítl a běží už měsíc |
+| **Game design pro začátečníky** (SKVOT) | Katarína Ferencová – Senior Expert Technical Designer, Elsewhere Entertainment (Activision); Lenka Krsová – Living World Designer, Fool's Theory | 15. 9. – 15. 12. 2026, 26 lekcí, út + čt 18:00–19:30 | 29 990 Kč (36 288 Kč); standardně 37 999 Kč | **4/5** pro IronHell (1,5/5 kariérně) | ~55 % | design review vlastní hry před vydáním od lektorek z AAA; technická polovina je v UE5, ne v Godotu, a stojí 26 večerů |
+| Projektový management v IT (robot_dreams) – záložní / rezervní slot | Tomáš Foltýn – Head of Technology Units, Trask (dříve Česká spořitelna) | od 8. 12. 2026, 16 lekcí, po + st 18:00–19:30 (viz nesrovnalost níže) | 24 990 Kč (30 238 Kč); standardně 33 990 Kč | 3/5 | ~80 % | reálná potřeba (vedu tým), ale cílí na netechnické PM; ~30 % obsahu je pro mě výplň; vejde se do rezervního slotu |
+| **Vedení IT týmů** (robot_dreams) – třetí kurz, příští běh | Tomáš Foltýn – Principal Consultant / board member, Trask | aktuální běh 27. 7. – 23. 11. 2026, 16 lekcí, jen pondělky 18:00–19:30; příští běh nevypsán (odhad jaro 2027) | 29 990 Kč (36 288 Kč); standardně 42 990 Kč | 3/5 | ~70 % | blíž k „vedu lidi" než PM; zkušební 2 lekce, pak případně výměna za PM nebo Microservices |
 | Microservices – záložní | — (kurz není v nabídce) | — | — | téma 4/5, dostupný kurz 0 | ~85–90 % | nejlépe nahraditelné téma; učím se na projektu v NTIT |
 
 Škála vhodnosti: 5 = kurz cílí přesně na mě a posouvá CV; 1 = obsah znám nebo míří na jinou cílovou skupinu. „Nahradím si sám s AI" = odhad, jaký podíl obsahu si dokážu se mnou (Claude) osvojit bez kurzu; zbytek jsou věci, které bez kurzu nedostanu (laby lektora, zpětná vazba na artefakty, komunita, certifikát, tlak rozvrhu).
@@ -48,9 +49,11 @@ Dokument vznikl jako jednorázová rozhodovací analýza mimo konvenci „veške
 ### Game design pro začátečníky
 
 - **Program (web, 26 lekcí):** role v gamedevu a cyklus vývoje, GDD, Unreal Engine 5 + Blueprints (úvod, 3C, animace, UI, pokročilé blueprinty, herní systémy, multiplayer), psychologie hráče, herní mechaniky I–II, level design a živoucí světy, AI v UE5 (Navmesh, State/Behavior Trees), storytelling I–III (zápletka, postavy, svět, quest v Twine), vyvažování, networking a pitching, kariérní poradenství.
-- **Vhodnost 1,5/5 profesně, 3,5/5 jako koníček (odhad):** cílová skupina je „career switcher / tvůrce bez technického backgroundu / hobby vývojář". Blueprintové lekce (zhruba 11 z 26) budou pro seniorního vývojáře pomalé; designové lekce Lenky Krsové (psychologie, mechaniky, level design, storytelling, balancing) jsou skutečně nová doména. Domněnka z toho, že mám nainstalované skilly `godot-export`, `game-feel` a `level-design`: hry mě zajímají prakticky a dělám je v Godotu — kurz je v UE5, takže se přenesou designové principy, ne dovednosti v enginu.
+- **Kontext (doplněno 31. 8.):** dělám hru [IronHell](https://ironhell.krato.cz) — top-down boomer shooter pro Android/iOS v Godotu 4.7, hratelná kampaň 3 × 10 map, verze 0.19.0, 1 501 commitů od 1. 6. 2026, cílový launch Q4 2026 / Q1 2027, před vydáním chybí store listing a art prostředí. Kurz tedy neposuzuji jako obecné studium, ale podle toho, co z něj použiji v IronHellu do jara 2027.
+- **Vhodnost 4/5 pro IronHell, 1,5/5 kariérně (odhad):** cílová skupina je „career switcher / tvůrce bez technického backgroundu / hobby vývojář" a Blueprintové lekce (zhruba 11 z 26) budou pro seniorního vývojáře pomalé. Designové lekce Lenky Krsové ale sedí na konkrétní problémy hry: level design (affordances, signposting, orientace) = Doom-style mapy s klíči, spínači a tajnými chodbami; vyvažování (křivky a rovnice) = zbraně, HP a obtížnosti, které dnes ladím měřením; psychologie hráče a mechaniky = obhajoba nebo přeskládání obtížností; networking a pitching (8. 12.) = týden před psaním store listingu. Z technického bloku Kataríny zůstane i mimo UE5: 3C (kamera a ovládání — u top-down touch hry jádro), UI/input hints/tutoriál (onboarding na mobilu), behavior trees vs. můj stavový automat NPC. Největší hodnota: dvě Q&A (10. 11., 15. 12.) a úkoly jako příležitost přinést IronHell lidem, kteří dělali Cyberpunk 2077 a KCD2.
+- **Rámec:** ne „odměna", ale investice do kvality IronHellu a do další hry. 26 lekcí s úkoly je závazek; smysl má jen dokončený. Zhruba 40 % úkolů bude v UE5 — buď je udělám po svém v Godotu (ověřit u lektorek na první lekci), nebo je vědomě vynechám.
 - **Nahradím ~55 %:** teorii game designu (MDA, archetypy hráčů, flow, affordances, monomyt, křivky vyvažování) a strukturu GDD ano; krok-za-krokem v UE5 Blueprintech méně spolehlivě (UI enginu se mezi verzemi mění). Nenahradím: zpětnou vazbu na můj level od lidí z CD Projekt RED / Warhorse, networking, kariérní poradenství v oboru.
-- **Cena času:** 26 × 1,5 h = 39 h lekcí plus úkoly, tři měsíce út + čt; 5 čtvrtků (17. 9., 24. 9., 1. 10., 8. 10., 15. 10.) koliduje s Bezpečností AI — jeden z kurzů ze záznamu.
+- **Cena času:** 26 × 1,5 h = 39 h lekcí plus úkoly, tři měsíce út + čt; 5 čtvrtků (17. 9., 24. 9., 1. 10., 8. 10., 15. 10.) koliduje s Bezpečností AI — rozpis, co ze záznamu, je v sekci kolizí. Večery teď patří vývoji IronHellu (1 501 commitů za tři měsíce), takže kurz vývoj zpomalí; kompenzuje to jen tehdy, když ho skutečně použiji jako design review vlastní hry, ne jako paralelní studium. Kurz končí 15. 12., před finální fází při launchi v Q1 2027.
 
 ### Projektový management v IT (v e-mailu „Řízení IT projektů")
 
@@ -59,10 +62,11 @@ Dokument vznikl jako jednorázová rozhodovací analýza mimo konvenci „veške
 - **Nahradím ~80 %:** projektové řízení je nejlépe zdokumentovaná doména z celého výběru (PMBOK, Scrum Guide, McConnell: Software Estimation, kužel nejistoty, Kanban); šablony WBS, karty projektu a odhadů dokážu s tebou udělat rovnou nad reálným projektem v NTIT. Nenahradím: zkušenosti lektora z řízení 20 týmů v České spořitelně, skupinu peerů, certifikát (u mé seniority má malou váhu — domněnka).
 - **Riziko:** běh končí zhruba na přelomu ledna a února 2027, s vánoční pauzou až v polovině února (odhad z 16 lekcí × 2 týdně) — tedy souběh s Kubernetes a MLOps. Kubernetes měl v minulém běhu út + čt, s po + st se nekryje; ale tři kurzy najednou je 5–6 večerů týdně.
 
-### Vedení IT týmů (záložní)
+### Vedení IT týmů (třetí kurz, příští běh)
 
 - **Program (web, 16 lekcí):** role IT manažera vs. tech leada, SMART cíle; psychologické a komunikační minimum; EQ, stres, wellbeing; řízení více týmů, time management, delegování; hybridní týmy; zpětná vazba a konflikty; krizový management; Jira/Trello/Confluence; agilní škálování (SAFe, LeSS, DAD, Spotify); roadmapy, OKR; data-driven management; změnový management; etika a bezpečnost; finanční minimum (ROI, TCO); talent management; AI v managementu.
-- **Vhodnost 3/5:** obsahově je to blíž k „vedu lidi" než PM (který je o „dodávám projekt"). Ale: v e-mailu z 11. 5. 2026 jsem napsal „Vedení IT týmů (ten nechci)" — před otočením stojí za to vědět proč; kurz běží od 27. 7., proběhly 4 lekce (27. 7., 10. 8., 17. 8., 24. 8.), pátá je zítra 31. 8.; lekce Jira/Trello/Confluence je pro mě prázdná; pondělky 7. 9., 14. 9., 21. 9., 5. 10. a 12. 10. se kryjí s Bezpečností AI (5 kolizí).
+- **Vhodnost 3/5:** obsahově je to blíž k „vedu lidi" než PM (který je o „dodávám projekt"). V e-mailu z 11. 5. 2026 jsem napsal „Vedení IT týmů (ten nechci)"; 31. 8. jsem to otočil — od léta tým skutečně vedu a potřeba je jinde než v květnu. Aktuální běh (od 27. 7., pondělky, 5 kolizí s Bezpečností AI) už nechytám; čekám na příští. Lekce Jira/Trello/Confluence je pro mě prázdná.
+- **Rozhodnutí (31. 8.):** třetí kurz, příští běh — jako kurz zdarma z 1+1 párovaný s Game designem (29 990 ≤ 29 990). Odhad termínu: jaro 2027 (domněnka z toho, že nabídky chodily v říjnu 2025 a v dubnu 2026, tedy zhruba dva běhy do roka). Zkušební dvě lekce; když nesedí, výměna za Projektový management v IT nebo Microservices. Precedent výměny: květen 2026, Machine Learning → AI architektura v praxi po druhé lekci; pro kurz zdarma z 1+1 ověřit.
 - **Nahradím ~70 %:** kánon leadershipu (The Manager's Path, Radical Candor, Team Topologies, Accelerate/DORA metriky, OKR) a příprava na těžké rozhovory ano; nenahradím trénink s lidskou zpětnou vazbou a peer skupinu.
 
 ### Microservices (záložní)
@@ -80,7 +84,8 @@ Kalendář (Google, 1. 9. – 20. 12. 2026) nemá žádné večerní události v
 | 3. 9. – 15. 10. | po + čt (Bezpečnost AI) | po + út + čt, čt 5× dvojitě | 5 čtvrtků ze záznamu |
 | 16. 10. – 15. 12. | nic | út + čt (Game design) | |
 | 8. 12. – ~únor 2027 | po + st (PM, pokud ho zvolím) | po + st + týden 8.–15. 12. navíc út + čt | |
-| únor 2027 | PM dobíhá + Kubernetes (dříve út + čt) + MLOps (?) | totéž | 3 kurzy = 5–6 večerů týdně |
+| únor 2027 | Kubernetes (dříve út + čt) + MLOps (?) + PM dobíhá, pokud byl zvolen do rezervního slotu | totéž | 2–3 kurzy = 4–6 večerů týdně, k tomu finiš IronHellu |
+| jaro 2027 (odhad) | Vedení IT týmů, pondělky, 16 týdnů | totéž | vedle Kubernetes/MLOps a launche IronHellu |
 
 ### Čtvrteční kolize Bezpečnost AI × Game design (lekce spárované podle programů)
 
@@ -103,28 +108,36 @@ Pro srovnání: v prosinci 2025 jsem psal „Kde já na to vezmu čas..." a „a
 | Scénář | Platím | Zdarma | Cena | Otevřený slot do 31. 12. 2026 |
 |---|---|---|---|---|
 | S0 nic | — | — | 0 | ne |
-| **S1 doporučený** | Bezpečnost AI | slot (PM se vejde celý; Game design nebo Vedení = doplatek 4 000 / 4 840 Kč) | 25 990 / 31 448 Kč | ano, ≤ 25 990 Kč |
-| S2 Game design jako koníček | Game design | Bezpečnost AI | 29 990 / 36 288 Kč | ne |
-| S3 všechny tři | Game design + Bezpečnost AI | PM + druhý slot | 55 980 / 67 736 Kč | ano, ≤ 25 990 Kč |
-| S3b všechny tři, levněji | Game design + PM | Bezpečnost AI + druhý slot | 54 980 / 66 526 Kč | ano, ≤ 24 990 Kč |
+| S1 původní doporučení (30. 8.) | Bezpečnost AI | slot (PM se vejde celý; Game design nebo Vedení = doplatek 4 000 / 4 840 Kč) | 25 990 / 31 448 Kč | ano, ≤ 25 990 Kč |
+| S2 nouzový (revize 31. 8. dopoledne) | Game design | Bezpečnost AI | 29 990 / 36 288 Kč | ne |
+| S3 s PM | Game design + Bezpečnost AI | PM + druhý slot | 55 980 / 67 736 Kč | ano, ≤ 25 990 Kč |
+| S3b s PM, levněji | Game design + PM | Bezpečnost AI + druhý slot | 54 980 / 66 526 Kč | ano, ≤ 24 990 Kč |
+| **S4 rozhodnutí (31. 8. večer)** | Game design + Bezpečnost AI | Vedení IT týmů (příští běh, párováno s Game designem) + druhý slot (párován s Bezpečností AI) | 55 980 / 67 736 Kč | ano, ≤ 25 990 Kč — PM, Microservices nebo dar |
+| S4b | Game design + Vedení IT týmů | Bezpečnost AI + druhý slot | 59 980 / 72 576 Kč | ano, ≤ 29 990 Kč |
 
-Zda lze koupit dva páry 1+1 najednou (S3/S3b), e-mail neříká — domněnka, ověřit. Pokud jsem plátce DPH, rozhoduje cena bez DPH.
+Zda lze koupit dva páry 1+1 najednou (S3/S4), e-mail neříká — domněnka, ověřit. S4 je o 4 000 Kč levnější než S4b a než S2 + Vedení IT týmů koupené později samostatně (29 990 + 29 990 = 59 980 Kč), a navíc má rezervní slot; S4b má slot o 4 000 Kč větší, což by se hodilo jen pro Microservices (Planského kurz stál 27 990 Kč). Pokud jsem plátce DPH, rozhoduje cena bez DPH.
 
 ## Protiargumenty proti doporučení
 
 - **Překryv Bezpečnosti AI s tím, co už mám** může být větší než 25 % — tři kurzy od Kubici a Večerníka plus red teaming pokrývají MCP autorizaci, RBAC, threat modeling i část guardrails. Odpověď: laby s PyRIT/garak/promptfoo/CycloneDX/OTel jsou přesně ta část, kterou samostudium přeskočí, a placený kurz zároveň odemyká druhý zdarma, takže efektivní cena za kurz je poloviční.
 - **Září–říjen je pracovně nejnabitější období** (kontrakt NTIT, review PR, vedení týmu); 12 lekcí + úkoly ≈ 40–50 h za 6 týdnů. Odpověď: Kubicovy kurzy jsem zvládal při plném úvazku už dvakrát; záznamy jsou k dispozici další den.
 - **Nekupovat nic a učit se AI security se mnou zdarma** je legitimní: Kubernetes a MLOps už mám předplacené, 31 448 Kč zůstane. Hrubá EV (domněnka): pravděpodobnost, že kurz dokončím se skutečným posunem, ~0,8; hodnota „AI security" v CV na 2 roky dopředu — jedna zakázka nebo argument při vyjednávání sazby — převyšuje cenu kurzu. Kdyby CV mířilo jinam (MLOps), EV padá pod nulu.
-- **PM v prosinci vs. tři souběžné kurzy v únoru 2027** — právě proto slot nechat otevřený a rozhodnout až s termíny Kubernetes/MLOps v ruce.
+- **PM v prosinci vs. tři souběžné kurzy v únoru 2027** — v S2 slot nezbývá, takže PM odpadá; kdyby přece (S3), jen s termíny Kubernetes/MLOps v ruce.
+- **Game design zpomalí IronHell přesně v období, kdy má vyjít.** Nejsilnější námitka proti S2: 13 týdnů út + čt plus úkoly ubere z večerů, které dnes dávají ~500 commitů měsíčně. Odpověď: kurz končí 15. 12., před finální fází při launchi v Q1 2027, a část „vývoje" nahradí design review vlastních map v úkolech. Pokud je launch pevně Q4 2026, námitka vyhrává a platí S1.
+- **Pět kurzů za devět měsíců.** S4 znamená Bezpečnost AI (září–říjen), Game design (září–prosinec), Kubernetes a MLOps (od února 2027) a Vedení IT týmů (jaro 2027) vedle kontraktu NTIT, vedení týmu a vydání IronHellu. Zkušební lekce a výměna hlídají peníze, ne čas. Odpověď: Vedení IT týmů je jedna lekce týdně a bez laboratorních úkolů, a rezervní slot nemusím využít vůbec — PM do něj dát jen s termíny Kubernetes/MLOps v ruce, jinak ho nechat propadnout nebo darovat.
+- **Design bez kurzu:** Schell (The Art of Game Design), Koster (A Theory of Fun), Swink (Game Feel) a playtesty s kamarády dají teorii zdarma. Odpověď: nedají zpětnou vazbu lidí, kteří dodali Cyberpunk a KCD2, ani termín, který donutí návrh map obhájit před cizíma očima — a hodnocení kamarádů není objektivní, jak sám vím.
 
 ## Co ověřit u robot_dreams před platbou
 
-1. Slot na druhý kurz platí do 31. 12. 2026 a nemusím ho pojmenovat teď (písemně, do potvrzení objednávky).
-2. Zvýhodněná cena 25 990 Kč platí i při platbě 31. 8.
-3. Jak se počítá „hodnota nákupu" pro druhý kurz — proti standardní, nebo zvýhodněné ceně druhého kurzu.
+1. Ve scénáři S4 pojmenovat párování písemně: placený Game design pro začátečníky (SKVOT) + zdarma Vedení IT týmů (robot_dreams, příští běh); placený Bezpečnost AI aplikací + druhý slot otevřený do 31. 12. 2026. Akce platí napříč platformami.
+2. Zvýhodněné ceny (Game design 29 990 Kč, Bezpečnost AI 25 990 Kč) platí i při platbě 31. 8.
+3. Jak se počítá „hodnota nákupu" pro druhý kurz — proti standardní, nebo zvýhodněné ceně druhého kurzu. U Vedení IT týmů je to rozdíl 13 000 Kč (standardně 42 990 vs. zvýhodněně 29 990).
 4. Termíny předplaceného Kubernetes a MLOps (moje otázka z 26. 8. je bez odpovědi).
 5. Skutečný rozvrh prosincového běhu PM: 8. 12. 2026 je úterý, e-mail říká „pondělí a středa".
-6. Faktura a platba tak, abych stihl první lekci ve čtvrtek 3. 9.
+6. Faktura a platba tak, abych stihl první lekci Bezpečnosti AI ve čtvrtek 3. 9. (Game design začíná až 15. 9.).
+7. U lektorek Game designu (na první lekci, ne u obchodu): zda lze úkoly odevzdávat v Godotu místo UE5.
+8. Kurz zdarma z 1+1 může být běh začínající až v roce 2027 (pojmenovaný do 31. 12. 2026) — a kdy je plánovaný příští běh Vedení IT týmů.
+9. Zda lze kurz zdarma z 1+1 po prvních dvou lekcích vyměnit za jiný (Projektový management v IT, Microservices) jako v květnu u Machine Learning.
 
 ## Nesrovnalosti nalezené ve zdrojích
 
