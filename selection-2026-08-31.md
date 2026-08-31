@@ -114,6 +114,18 @@ Oba kurzy 18:00–19:30; 3. 9. a 10. 9. Game design ještě neběží, kolizí j
 
 Rozdělení 3 : 2 ve prospěch Bezpečnosti AI vychází přirozeně: ze záznamu jdou tři technické/úvodní lekce Kataríny, živě zůstanou obě designové lekce Lenky.
 
+### Pondělní kolize Bezpečnost AI × běžící Vedení IT týmů (jen kdybych chytal aktuální běh)
+
+Vedení IT týmů má 16 lekcí (pondělky 18:00–19:30, 27. 7. – 23. 11. 2026); k 31. 8. proběhly 4, pátá je 31. 8., zbývá 12. Bezpečnost AI aplikací má 12 lekcí (po + čt 18:00–19:30, 3. 9. – 15. 10. 2026). Překryv je 5 pondělků ve stejném čase; 28. 9. je státní svátek bez lekce. Při aktuálním běhu bych tedy z Vedení IT týmů viděl živě nejvýš 6–7 lekcí ze 16 — jeden z důvodů, proč jde do příštího běhu.
+
+| Pondělí | Vedení IT týmů | Bezpečnost AI aplikací |
+|---|---|---|
+| 7. 9. | 6 – Zpětná vazba a řešení konfliktů | 2 – Threat modeling pro AI systémy |
+| 14. 9. | 7 – Krizový management | 4 – Guardrails a runtime bezpečnost |
+| 21. 9. | 8 – Jira, Trello, Confluence | 6 – Bezpečnost agentních akcí, nástrojů a MCP |
+| 5. 10. | 9 – Agilní škálování (SAFe, LeSS, DAD, Spotify) | 9 – Bezpečnostní evaluace a CI/CD (promptfoo) |
+| 12. 10. | 10 – Strategické plánování, OKR | 11 – Monitoring a reakce na incidenty (OTel, Langfuse) |
+
 Pro srovnání: v prosinci 2025 jsem psal „Kde já na to vezmu čas..." a „asi to jsou na hodně dlouhou dobu poslední kurzy, které si nějakým způsobem platím". Vazbou je čas, ne peníze.
 
 ## Cenové scénáře (bez DPH / s DPH 21 %)
