@@ -1,7 +1,7 @@
 # Výběr kurzů k akci 1+1 (srpen 2026)
 
 - **Datum:** 2026-08-30; revize 2026-08-31 dopoledne (doplněn kontext hry IronHell, doporučení změněno z S1 na S2), večer (třetí kurz Vedení IT týmů v příštím běhu) a po zapracování telefonátů (finální scénář S5: jeden nový pár 1+1 + nevyužitý slot firmy)
-- **Status:** návrh k rozhodnutí; deadline akce 1+1 je 31. 8. 2026 (dle mého sdělení, ne z e-mailu)
+- **Status:** rozhodnuto a z větší části provedeno — 31. 8. 2026 uhrazen Game design (zálohová faktura Skvot z 31. 8. 08:11, daňový doklad 19:14), 31. 8. 19:38 přišel welcome letter ke kurzu „Kyberbezpečnost AI aplikací" (první lekce čt 3. 9. 18:00, Labaverse + Discord + Zoom, materiály v GitHub repozitáři kurzu); třetí kurz (Vedení IT týmů ze staršího slotu firmy) v jednání s panem Zicháčkem 1. 9. 2026
 - **Zdroje:** e-maily od robot_dreams (3. 8. 2026 k Bezpečnosti AI aplikací a Řízení IT projektů, 9. 6. 2026 ke Game designu, 1. 4. 2026 k Vedení IT týmů, 4. 12. 2025 k architektuře moderních aplikací, 12. 11. 2025 k Docker & Kubernetes), stránky kurzů stažené 30. 8. 2026, katalog robotdreams.cz (30. 8. 2026), telefonáty s robot_dreams zaznamenané Plaudem (21. 8. 2026 63 min, 27. 8. 2026 43 min s panem Zicháčkem — přepis i souhrn, 28. 8. 2026 7 min, přerušen), [README](README.md)
 - **Ověření:** data lekcí a kolize přepočítány ručně z programů kurzů; z telefonátu 27. 8. vycházím z přepisu, ne ze souhrnu Plaudu (souhrn má artefakty: „Bezpečnost AI za 9 000 Kč" je v přepisu nesrozumitelné číslo, „Kubernetes od 2. ledna" je v přepisu jen „druhého"); protiargumenty v samostatné sekci (bez subagenta — rozhodnutí je za ~30 tis. Kč a je vratné jen částečně, víc procesu by bylo divadlo)
 
@@ -16,6 +16,15 @@ Dokument vznikl jako jednorázová rozhodovací analýza mimo konvenci „veške
 5. **Microservices: kurz neexistuje**, katalog k 30. 8. 2026 žádný nemá. Nejbližší byl „Staň se architektem moderních aplikací" (Roman Planský, SeyFor), naposledy leden–únor 2026, další běh nevypsán. Tohle je téma, kde jsem nejlepší náhrada já (viz níže).
 
 **Změním názor, když:** (a) launch IronHellu bude pevně v Q4 2026 — pak tři měsíce kurzu kolidují s finiší a Game design patří až do dalšího běhu po vydání (zpět na S1 s otevřeným slotem); (b) se ukáže, že CV nechci směřovat k AI security, ale k MLOps/ML inženýrství — pak Bezpečnost AI klesá na 3/5 a jako kurz zdarma k Game designu je pořád v pořádku, ale nebyl by důvod spěchat s platbou do 31. 8.; (c) robot_dreams odmítne kurz zdarma s během až v roce 2027 nebo výměnu kurzu zdarma po zkušebních lekcích — pak zpět na S2 a Vedení IT týmů koupit až s vypsaným během; (d) starší slot firmy nepůjde převést na mě nebo má nižší hodnotu, než stojí Vedení IT týmů — pak doplatek, nebo S4.
+
+## Průběh (doplňováno)
+
+- **31. 8. 08:00** — odeslán e-mail panu Zicháčkovi s výběrem tří kurzů (bez rozepsání párování).
+- **31. 8. 08:11** — zálohová faktura Skvot za Game design pro začátečníky (placený kurz páru); v e-mailu připomenut bonus 1+1: druhý kurz do konce roku 2026, napříč platformami, dražší = doplatek, lze věnovat.
+- **31. 8. 08:13** — pan Zicháček k Vedení IT týmů: v běhu od 27. 7. proběhlo 5 lekcí, 31. 8. je šestá (web má k 24. 8. čtyři — jeho počet je o jednu vyšší, nejspíš lekce, kterou web nezobrazuje); nabízí přidání do stávajícího běhu (končí 23. 11.) i registraci do příštího.
+- **31. 8. 14:49** — moje odpověď: platba přijde od firmy během chvíle, Vedení IT týmů dořešíme potom.
+- **31. 8. 19:14** — daňový doklad VF1-1734/2026 (uhrazeno). **31. 8. 19:38** — welcome letter „Kyberbezpečnost AI aplikací" (= Bezpečnost AI aplikací, kurz zdarma z páru).
+- **1. 9.** — jednání o třetím kurzu ze staršího slotu firmy (viz S5 a body k ověření 8–10).
 
 ## Podmínky akce 1+1 (z e-mailu 3. 8. 2026)
 
@@ -116,7 +125,7 @@ Rozdělení 3 : 2 ve prospěch Bezpečnosti AI vychází přirozeně: ze záznam
 
 ### Pondělní kolize Bezpečnost AI × běžící Vedení IT týmů (jen kdybych chytal aktuální běh)
 
-Vedení IT týmů má 16 lekcí (pondělky 18:00–19:30, 27. 7. – 23. 11. 2026); k 31. 8. proběhly 4, pátá je 31. 8., zbývá 12. Bezpečnost AI aplikací má 12 lekcí (po + čt 18:00–19:30, 3. 9. – 15. 10. 2026). Překryv je 5 pondělků ve stejném čase; 28. 9. je státní svátek bez lekce. Při aktuálním běhu bych tedy z Vedení IT týmů viděl živě nejvýš 6–7 lekcí ze 16 — jeden z důvodů, proč jde do příštího běhu.
+Vedení IT týmů má 16 lekcí (pondělky 18:00–19:30, 27. 7. – 23. 11. 2026); podle webu k 24. 8. proběhly 4 a 31. 8. je pátá, podle pana Zicháčka (e-mail 31. 8.) proběhlo 5 a 31. 8. je šestá — v obou případech zbývá po 31. 8. 10–11 lekcí. Bezpečnost AI aplikací má 12 lekcí (po + čt 18:00–19:30, 3. 9. – 15. 10. 2026). Překryv je 5 pondělků ve stejném čase; 28. 9. je státní svátek bez lekce. Při aktuálním běhu bych tedy z Vedení IT týmů viděl živě nejvýš 6–7 lekcí ze 16 — jeden z důvodů, proč jde do příštího běhu.
 
 | Pondělí | Vedení IT týmů | Bezpečnost AI aplikací |
 |---|---|---|
