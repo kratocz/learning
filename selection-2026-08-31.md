@@ -1,7 +1,7 @@
 # Výběr kurzů k akci 1+1 (srpen 2026)
 
 - **Datum:** 2026-08-30; revize 2026-08-31 dopoledne (doplněn kontext hry IronHell, doporučení změněno z S1 na S2), večer (třetí kurz Vedení IT týmů v příštím běhu) a po zapracování telefonátů (finální scénář S5: jeden nový pár 1+1 + nevyužitý slot firmy)
-- **Status:** rozhodnuto a z větší části provedeno — 31. 8. 2026 uhrazen Game design (zálohová faktura Skvot z 31. 8. 08:11, daňový doklad 19:14), 31. 8. 19:38 přišel welcome letter ke kurzu „Kyberbezpečnost AI aplikací" (první lekce čt 3. 9. 18:00, Labaverse + Discord + Zoom, materiály v GitHub repozitáři kurzu); třetí kurz (Vedení IT týmů ze staršího slotu firmy) v jednání s panem Zicháčkem 1. 9. 2026
+- **Status:** rozhodnuto a z větší části provedeno — 31. 8. 2026 uhrazen Game design (zálohová faktura Skvot z 31. 8. 08:11, daňový doklad 19:14), 31. 8. 19:38 přišel welcome letter ke kurzu „Kyberbezpečnost AI aplikací" (první lekce čt 3. 9. 18:00, Labaverse + Discord + Zoom, materiály v GitHub repozitáři kurzu); třetí kurz (Vedení IT týmů ze staršího slotu firmy) byl v jednání 1. 9. 2026 a **17. 9. 2026 odložen** — aktuálně by to bylo příliš mnoho kurzů najednou; Foltýnovy kurzy v README přesunuty do „Dlouhodobě zvažované"
 - **Zdroje:** e-maily od robot_dreams (3. 8. 2026 k Bezpečnosti AI aplikací a Řízení IT projektů, 9. 6. 2026 ke Game designu, 1. 4. 2026 k Vedení IT týmů, 4. 12. 2025 k architektuře moderních aplikací, 12. 11. 2025 k Docker & Kubernetes), stránky kurzů stažené 30. 8. 2026, katalog robotdreams.cz (30. 8. 2026), telefonáty s robot_dreams zaznamenané Plaudem (21. 8. 2026 63 min, 27. 8. 2026 43 min s panem Zicháčkem — přepis i souhrn, 28. 8. 2026 7 min, přerušen), [README](README.md)
 - **Ověření:** data lekcí a kolize přepočítány ručně z programů kurzů; z telefonátu 27. 8. vycházím z přepisu, ne ze souhrnu Plaudu (souhrn má artefakty: „Bezpečnost AI za 9 000 Kč" je v přepisu nesrozumitelné číslo, „Kubernetes od 2. ledna" je v přepisu jen „druhého"); protiargumenty v samostatné sekci (bez subagenta — rozhodnutí je za ~30 tis. Kč a je vratné jen částečně, víc procesu by bylo divadlo)
 
@@ -25,6 +25,7 @@ Dokument vznikl jako jednorázová rozhodovací analýza mimo konvenci „veške
 - **31. 8. 14:49** — moje odpověď: platba přijde od firmy během chvíle, Vedení IT týmů dořešíme potom.
 - **31. 8. 19:14** — daňový doklad VF1-1734/2026 (uhrazeno). **31. 8. 19:38** — welcome letter „Kyberbezpečnost AI aplikací" (= Bezpečnost AI aplikací, kurz zdarma z páru).
 - **1. 9.** — jednání o třetím kurzu ze staršího slotu firmy (viz S5 a body k ověření 8–10).
+- **17. 9.** — Vedení IT týmů odloženo (příliš mnoho kurzů najednou), ani další Foltýnovy kurzy teď ne; oba přesunuty v README z „Plánované" do nově pojmenované sekce „Dlouhodobě zvažované". Scénář S5 tím zůstává provedený jen ve dvou třetinách (Game design + Bezpečnost AI); starší slot firmy zůstává nevyužitý.
 
 ## Podmínky akce 1+1 (z e-mailu 3. 8. 2026)
 
